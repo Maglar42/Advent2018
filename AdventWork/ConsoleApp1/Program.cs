@@ -7,8 +7,8 @@ namespace Advent2018
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Star1: " + new Day4().Star1().ToString());
-            Console.WriteLine("Star2: " + new Day4().Star2().ToString());
+            Console.WriteLine("Star1: " + new Day5().Star1().ToString());
+            Console.WriteLine("Star2: " + new Day5().Star2().ToString());
             Console.ReadLine();
         }
     }
